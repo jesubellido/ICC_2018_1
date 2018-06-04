@@ -28,7 +28,8 @@ Escribe un programa en Python que tenga la función de verificar si los números
 - TestCase 03 [input](resources/tests/input/input03.txt) [output](resources/tests/output/output03.txt)
 - TestCase 04 [input](resources/tests/input/input04.txt) [output](resources/tests/output/output04.txt)
 - TestCase 05 [input](resources/tests/input/input05.txt) [output](resources/tests/output/output05.txt)
-
+- TestCase 06 [input](resources/tests/input/input06.txt) [output](resources/tests/output/output06.txt)
+- TestCase 07 [input](resources/tests/input/input07.txt) [output](resources/tests/output/output07.txt)
 ### Tags
 - variables, expressions
 

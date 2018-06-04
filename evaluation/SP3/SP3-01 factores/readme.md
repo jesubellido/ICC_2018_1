@@ -29,7 +29,10 @@ Escribe un programa en Python que permita al usuario ingresar un número y que e
 - TestCase 03 [input](resources/tests/input/input03.txt) [output](resources/tests/output/output03.txt)
 - TestCase 04 [input](resources/tests/input/input04.txt) [output](resources/tests/output/output04.txt)
 - TestCase 05 [input](resources/tests/input/input05.txt) [output](resources/tests/output/output05.txt)
-
+- TestCase 06 [input](resources/tests/input/input06.txt) [output](resources/tests/output/output06.txt)
+- TestCase 07 [input](resources/tests/input/input07.txt) [output](resources/tests/output/output07.txt)
+- TestCase 08 [input](resources/tests/input/input08.txt) [output](resources/tests/output/output08.txt)
+- TestCase 09 [input](resources/tests/input/input09.txt) [output](resources/tests/output/output09.txt)
 ### Tags
 - function, list
 
