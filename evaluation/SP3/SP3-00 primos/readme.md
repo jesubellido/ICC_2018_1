@@ -1,4 +1,4 @@
-## Polinomios
+## Números Primos
 
 ### Description
 
