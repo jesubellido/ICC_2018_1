@@ -18,7 +18,7 @@ Crea un programa que permita al usuario ingresar dos números y calcular el Máx
 
 ### Output Format
 - Si las entradas son correctas, imprime el MCD.
-- Si las entradas no son correctas, "Invalid input" 
+- Si las entradas no son correctas, "Invalid input"
 
 ### Test Cases
 - TestCase 00 [input](resources/tests/input/input00.txt) [output](resources/tests/output/output00.txt)
@@ -26,7 +26,6 @@ Crea un programa que permita al usuario ingresar dos números y calcular el Máx
 - TestCase 02 [input](resources/tests/input/input02.txt) [output](resources/tests/output/output02.txt)
 - TestCase 03 [input](resources/tests/input/input03.txt) [output](resources/tests/output/output03.txt)
 - TestCase 04 [input](resources/tests/input/input04.txt) [output](resources/tests/output/output04.txt)
-- TestCase 05 [input](resources/tests/input/input05.txt) [output](resources/tests/output/output05.txt)
 
 ### Tags
 - function, list
